@@ -1,0 +1,49 @@
+h1, h2 {
+  text-align: center;
+  font-family: Oxygen, sans-serif;
+}
+
+body {
+  font-family: 'Source+Sans', sans-serif;
+  color: yellow;
+  background-image: url("http://test.moggybali.com/wp-content/uploads/2013/12/surfing1.jpg");
+}
+
+.slater {
+  float: left;
+  width: 200px;
+  height: 150px;
+  background-image: url("http://www.baartandco.com/wp-content/uploads/2014/03/26438.jpg");
+  background-size: cover;
+  padding-top: 5em;
+}
+
+.john {
+   float: left;
+   margin-left: 50px;
+   width: 200px;
+   height: 150px;
+   background-image: url("http://johnjohn-florence.com/wp-content/uploads/2013/08/john-john-florence_fe.jpg");
+   background-size: cover;
+   padding-top: 5em;
+ }
+
+.medina {
+  float: left;
+  margin-left: 50px;
+  width: 200px;
+  height: 150px;
+  background-image: url("http://resources0.news.com.au/images/2014/11/13/1227121/349276-85627d56-6a26-11e4-b185-fd998d90ddfa.jpg");
+  background-size: cover;
+  padding-top: 5em;
+}
+
+.wilson {
+  float: left;
+  margin-left: 50px;
+  width: 200px;
+  height: 150px;
+  background-image: url("http://www.boudist.com/gallery/d/50868-2/WIlson.JPG");
+  background-size: cover;
+  padding-top: 5em;
+}
